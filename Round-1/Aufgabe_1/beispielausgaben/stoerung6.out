@@ -1,0 +1,7 @@
+Sentence: hier _ alice 
+Found sentence at line 212-213 : hier wurde alice
+Found sentence at line 1952-1952 : hier fragte alice
+Found sentence at line 3384-3384 : hier rief alice
+Found sentence at line 3577-3577 : hier sagte alice
+
+Time: 40.24863243103027 ms

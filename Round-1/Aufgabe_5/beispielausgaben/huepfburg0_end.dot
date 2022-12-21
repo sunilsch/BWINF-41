@@ -1,0 +1,67 @@
+digraph{
+rankdir=LR
+0 [fillcolor = green; style=filled]
+1 [fillcolor = green; style=filled]
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+0->17 [color = red; penwidth=4; label=" 1 time"]
+0->7
+0->3
+1->2
+1->18 [color = blue; penwidth=4 label=" 1 time"]
+2->18
+2->5
+4->14
+4->11
+4->12
+5->1
+5->11
+6->4
+6->7
+7->17
+7->3
+8->3
+8->0
+8->13
+9->15
+9->2
+9->11
+9->17
+10->18
+11->2
+12->6
+12->9 [color = red; penwidth=4; label=" 1 time"]
+13->16
+13->15
+13->9
+13->17
+13->0
+14->11
+15->10
+15->19
+15->16
+15->18
+16->10
+16->8
+17->12 [color = red; penwidth=4; label=" 1 time"]
+17->6
+18->19 [color = blue; penwidth=4 label=" 1 time"]
+19->2
+19->9 [color = blue; penwidth=4 label=" 1 time"]
+}

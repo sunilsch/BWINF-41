@@ -1,0 +1,52 @@
+digraph{
+rankdir=LR
+0 [fillcolor = green; style=filled]
+1 [fillcolor = green; style=filled]
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+0->1 [color = blue; penwidth=4 label=" 7 times"]
+0->3 [color = red; penwidth=4; label=" 9 times"]
+1->2 [color = blue; penwidth=4 label=" 8 times"]
+2->3 [color = blue; penwidth=4 label=" 8 times"]
+3->4 [color = red; penwidth=4; label=" 8 times"]
+3->4 [color = blue; penwidth=4 label=" 7 times"]
+4->5 [color = red; penwidth=4; label=" 8 times"]
+4->5 [color = blue; penwidth=4 label=" 7 times"]
+5->6 [color = red; penwidth=4; label=" 8 times"]
+5->6 [color = blue; penwidth=4 label=" 7 times"]
+6->7 [color = red; penwidth=4; label=" 8 times"]
+6->7 [color = blue; penwidth=4 label=" 7 times"]
+7->8 [color = red; penwidth=4; label=" 8 times"]
+7->8 [color = blue; penwidth=4 label=" 7 times"]
+8->9 [color = red; penwidth=4; label=" 8 times"]
+8->9 [color = blue; penwidth=4 label=" 7 times"]
+9->10 [color = red; penwidth=4; label=" 8 times"]
+9->10 [color = blue; penwidth=4 label=" 7 times"]
+10->11 [color = red; penwidth=4; label=" 8 times"]
+10->11 [color = blue; penwidth=4 label=" 7 times"]
+11->12 [color = red; penwidth=4; label=" 8 times"]
+11->12 [color = blue; penwidth=4 label=" 7 times"]
+12->13 [color = red; penwidth=4; label=" 8 times"]
+12->13 [color = blue; penwidth=4 label=" 7 times"]
+13->14 [color = red; penwidth=4; label=" 8 times"]
+13->14 [color = blue; penwidth=4 label=" 7 times"]
+14->15 [color = red; penwidth=4; label=" 8 times"]
+14->15 [color = blue; penwidth=4 label=" 7 times"]
+15->16 [color = red; penwidth=4; label=" 8 times"]
+15->16 [color = blue; penwidth=4 label=" 7 times"]
+16->0 [color = red; penwidth=4; label=" 8 times"]
+16->0 [color = blue; penwidth=4 label=" 7 times"]
+}

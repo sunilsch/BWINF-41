@@ -1,0 +1,4 @@
+nOfSeeds -> 50
+width -> 5000
+height -> 5000
+maxSpeed -> 5

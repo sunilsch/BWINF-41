@@ -1,0 +1,9 @@
+digraph{
+rankdir=LR
+0 [fillcolor = green; style=filled]
+1 [fillcolor = green; style=filled]
+2
+0->1
+1->2
+2->0
+}

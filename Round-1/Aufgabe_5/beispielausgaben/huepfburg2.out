@@ -1,0 +1,5 @@
+path 1:  ->   0  ->  50  ->  75  ->  58  ->  41  ->  64  ->  53  ->  91  ->  26 
+path 2:  ->   1  ->  23  ->  52  ->   1  -> 105  -> 135  -> 107  ->  99  ->  26 
+
+Lenght of paths: 8
+Calculated Solution in 836 ms

@@ -1,0 +1,5 @@
+path 1:  ->   0  ->  17  ->  12  ->   9 
+path 2:  ->   1  ->  18  ->  19  ->   9 
+
+Lenght of paths: 3
+Calculated Solution in 181 ms
